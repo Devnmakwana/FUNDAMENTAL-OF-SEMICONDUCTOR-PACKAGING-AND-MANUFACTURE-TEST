@@ -5,7 +5,6 @@
 ![Domain](https://img.shields.io/badge/Domain-VLSI%20%26%20ATMP-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Module%201%20Completed-brightgreen.svg)
 
-This repository contains the complete, unabridged documentation of the **Semiconductor Backend Manufacturing (Assembly & Test)** curriculum. This covers the entire Assembly, Testing, Marking, and Packaging (ATMP) flow. 
 
 # Module 1: Semiconductor Backend Manufacturing (ATMP) Masterclass
 
