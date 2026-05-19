@@ -1,15 +1,5 @@
 # MODULE 4: FUNDAMENTALS OF IC PACKAGE FAILURE ANALYSIS
 
-## Table of Contents
-1. [Day 1: Introduction to Failure Analysis & Basic Flow](#day-1-introduction-to-failure-analysis--basic-flow)
-2. [Day 2: Electrical Data Analysis & EFA](#day-2-electrical-data-analysis--efa)
-3. [Day 3: Visual Inspection (OM, SAM, X-Ray)](#day-3-visual-inspection)
-4. [Day 4: Fault Isolation Techniques - I (Thermography)](#day-4-fault-isolation-techniques---i)
-5. [Day 5: Fault Isolation Techniques - II (Emission & SEM Probing)](#day-5-fault-isolation-techniques---ii)
-6. [Day 6: Physical/Destructive Failure Analysis - I](#day-6-destructive-failure-analysis---i)
-7. [Day 7: Physical/Destructive Failure Analysis - II](#day-7-destructive-failure-analysis---ii)
-8. [Day 8: Case Studies](#day-8-case-studies)
-
 ---
 
 ### Day 1: Introduction to Failure Analysis & Basic Flow
