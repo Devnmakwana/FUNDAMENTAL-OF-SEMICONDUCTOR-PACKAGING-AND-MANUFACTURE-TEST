@@ -23,7 +23,7 @@ The repository is specially organized module-wise for easy academic learning and
 
 # Topics Covered
 
-##  Module 1 — Semiconductor Fundamentals
+##  [Module 1](https://github.com/Devnmakwana/FUNDAMENTAL-OF-SEMICONDUCTOR-PACKAGING-AND-MANUFACTURE-TEST/blob/main/MODULE%201.md) — Semiconductor Fundamentals
 - Semiconductor Industry Overview
 - Semiconductor Supply Chain
 - Front-End vs Back-End Manufacturing
@@ -32,7 +32,7 @@ The repository is specially organized module-wise for easy academic learning and
 
 ---
 
-## Module 2 — Package Manufacturing Processes
+## [Module 2](https://github.com/Devnmakwana/FUNDAMENTAL-OF-SEMICONDUCTOR-PACKAGING-AND-MANUFACTURE-TEST/blob/main/MODULE%202.md) — Package Manufacturing Processes
 - Wafer Thinning
 - Wafer Dicing
 - Die Attach
@@ -43,7 +43,7 @@ The repository is specially organized module-wise for easy academic learning and
 
 ---
 
-## Module 3 — Semiconductor Testing
+## [Module 3](https://github.com/Devnmakwana/FUNDAMENTAL-OF-SEMICONDUCTOR-PACKAGING-AND-MANUFACTURE-TEST/blob/main/MODULE%203.md) — Semiconductor Testing
 - Wafer Probe Testing
 - Burn-In Testing
 - Final Testing
@@ -54,7 +54,7 @@ The repository is specially organized module-wise for easy academic learning and
 
 ---
 
-## Module 4 — Advanced Packaging & Reliability
+## [Module 4](https://github.com/Devnmakwana/FUNDAMENTAL-OF-SEMICONDUCTOR-PACKAGING-AND-MANUFACTURE-TEST/blob/main/MODULE%204.md) — Advanced Packaging & Reliability
 - 2.5D Packaging
 - 3D IC Packaging
 - Multi-Chip Modules
@@ -65,7 +65,7 @@ The repository is specially organized module-wise for easy academic learning and
 
 ---
 
-## Module 5 — Industry & Future Trends
+## [Module 5](https://github.com/Devnmakwana/FUNDAMENTAL-OF-SEMICONDUCTOR-PACKAGING-AND-MANUFACTURE-TEST/blob/main/MODULE%205.md) — Industry & Future Trends
 - ATMP Facilities
 - Cleanroom Operations
 - Semiconductor Packaging Equipment
