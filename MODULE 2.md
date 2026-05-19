@@ -107,8 +107,7 @@ Temperature regulation is maintained using liquid-cooled thermal systems to stab
 GR&R evaluates the consistency and reliability of a measurement process.
 * *Repeatability:* Measurement variation produced by the same operator using the same equipment.
 * *Reproducibility:* Variation caused by different operators performing the same measurement task.
-* $GR\&R = \mathrm{Repeatability} + \mathrm{Reproducibility}$ (Lower values indicate better measurement consistency).
-
+* **GR&R** = Repeatability + Reproducibility. (Lower is better).
 ---
 
 ## 5. Day 5: Test Firmware and Test Program Debugging
