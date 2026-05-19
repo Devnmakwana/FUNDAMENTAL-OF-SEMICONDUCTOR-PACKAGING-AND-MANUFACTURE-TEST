@@ -1,6 +1,19 @@
-# Complete Guide to Industrial Quality in ATMP
+# Module 5: Complete Guide To Industrial Quality In Atmp
 
-This repository serves as a comprehensive knowledge base for Industrial Quality Management, spanning fundamental quality concepts, risk analysis, measurement systems, and advanced process controls based on a rigorous 7-day curriculum.
+This module covers Industrial Quality fundamentals used in semiconductor manufacturing, including Cost of Quality (CoQ), FMEA, control planning, measurement system validation, and statistical process control.  
+It explains how quality is planned, measured, and controlled across ATMP production lines.  
+It also introduces advanced manufacturing control systems like FDC and Run-to-Run (R2R) used in modern semiconductor manufacturing.
+
+---
+
+## Table of Contents
+
+1. [Introduction to Industrial Quality](#1-introduction-to-industrial-quality)  
+2. [Failure Mode and Effects Analysis (FMEA)](#2-failure-mode-and-effects-analysis-fmea)  
+3. [Production Control Plans](#3-production-control-plans)  
+4. [Calibration & Measurement Systems Analysis (MSA)](#4-calibration--measurement-systems-analysis-msa)  
+5. [Statistical Process Control (SPC)](#5-statistical-process-control-spc)  
+6. [Fault Detection Control (FDC) & Run-to-Run (R2R)](#6-fault-detection-control-fdc--run-to-run-r2r)
 
 ---
 
